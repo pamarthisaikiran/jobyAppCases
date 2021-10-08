@@ -1,0 +1,149 @@
+.img-title {
+  display: flex;
+  align-items: center;
+}
+.list-job {
+  list-style-type: none;
+  background-color: #272727;
+  margin-bottom: 20px;
+  padding: 30px;
+  border-radius: 30px;
+  width: 100%;
+}
+@media (min-width: 577px) and (max-width: 767px) {
+  .list-job {
+    list-style-type: none;
+    background-color: #272727;
+    margin-bottom: 20px;
+    padding: 30px;
+    border-radius: 30px;
+    width: 100%;
+  }
+}
+@media (max-width: 576px) {
+  .list-job {
+    list-style-type: none;
+    background-color: #272727;
+    margin-bottom: 20px;
+    padding: 30px;
+    border-radius: 30px;
+    width: 100%;
+  }
+}
+.loc-emp-pack {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-img {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+.tit-rating {
+  align-self: flex-start;
+}
+.title {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+
+.rating {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.location {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.emp-type {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.pack {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.des {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.job-des {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+@media (max-width: 576px) {
+  .job-des {
+    font-size: 16px;
+    font-family: 'Roboto';
+    color: #ffffff;
+  }
+  .des {
+    font-size: 16px;
+    font-family: 'Roboto';
+    color: #ffffff;
+  }
+  .location {
+    font-size: 16px;
+    font-family: 'Roboto';
+    color: #ffffff;
+    margin-right: 10px;
+  }
+  .emp-type {
+    font-size: 16px;
+    font-family: 'Roboto';
+    color: #ffffff;
+    margin-right: 10px;
+  }
+  .pack {
+    font-size: 16px;
+    font-family: 'Roboto';
+    color: #ffffff;
+  }
+}
+.star {
+  color: #fbbf24;
+  margin-right: 10px;
+}
+.rat-star {
+  display: flex;
+  align-items: center;
+}
+.loc {
+  display: flex;
+  align-items: center;
+}
+.brief {
+  display: flex;
+  align-items: center;
+}
+.loc-icon {
+  color: #ffffff;
+  margin-right: 10px;
+}
+.brief-icon {
+  color: #ffffff;
+  margin-right: 10px;
+}
+@media (max-width: 576px) {
+  .title {
+    font-size: 16px;
+    font-family: 'Roboto';
+    color: #ffffff;
+  }
+  .rating {
+    font-size: 16px;
+    font-family: 'Roboto';
+    color: #ffffff;
+  }
+  .brief {
+    display: flex;
+    flex-direction: column;
+  }
+}

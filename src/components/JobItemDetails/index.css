@@ -1,0 +1,134 @@
+.img-title1 {
+  display: flex;
+  align-items: flex-start;
+}
+.list-job1 {
+  list-style-type: none;
+  background-color: #272727;
+  margin-bottom: 20px;
+  padding: 30px;
+  border-radius: 30px;
+  margin: 30px;
+}
+.loc-emp-pack1 {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-img1 {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+.tit-rating1 {
+  align-self: flex-start;
+}
+.title1 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.rating1 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.location1 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.emp-type1 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.pack1 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.des1 {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.job-des1 {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.star1 {
+  color: #fbbf24;
+  margin-right: 10px;
+}
+.rat-star1 {
+  display: flex;
+  align-items: center;
+}
+.loc1 {
+  display: flex;
+  align-items: center;
+}
+.brief1 {
+  display: flex;
+  align-items: center;
+}
+.loc-icon1 {
+  color: #ffffff;
+  margin-right: 10px;
+}
+.brief-icon1 {
+  color: #ffffff;
+  margin-right: 10px;
+}
+.skill-ul {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+}
+.container-job {
+  background-color: #000000;
+
+  background-size: cover;
+}
+.simi-heading1 {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.simi-ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.skill-head {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.lif-ul {
+  align-self: flex-start;
+  list-style-type: none;
+}
+.lif-heading {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.des-url {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.anchor {
+  color: #4f46e5;
+  text-decoration: none;
+  font-family: 'Roboto';
+}
+.ar-box {
+  color: #4f46e5;
+}
+.visi-box {
+  display: flex;
+  align-items: center;
+}
